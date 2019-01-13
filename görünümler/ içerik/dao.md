@@ -83,7 +83,7 @@ If the transaction was executed, then after a few seconds you should be able to 
 
 You can use this democracy to execute any transaction on ethereum, as long as you can figure out the bytecode that that transaction generates. Luckily for us, you can use the wallet to do precisely that!
 
-In this example, we'll use a token to show that this contract can hold more than ether and can do transactions in any other ethereum-based asset. First, [create a token](./token) that belongs to one of your normal accounts. On the contract page, click **Transfer Ether & Tokens** to transfer some of them to your new congress contract (for simplicity, don't send more than half your coins to your DAO). After that, we are going to simulate the action you want to execute. So if you want to propose that the DAO send 500mg of a gold token to a person as a payment, then follow the steps that you'd do to execute that transaction from an account you own and press "send" but when the confirmation screens pops up, **don't type your password**.
+Bu örnekte, bu sözleşmenin eterden daha detaylı bir şekilde yapılması ve diğer eterlerin temel etkenleri üzerinde işlem yapılabilmesi için bir belirteç kullanacağız. İlk önce, normal hesaplarınızdan birine ait [bir belirteçlerinizi] ] (./token). ** Eter ve Jetonları Aktar ** 'ı tıklayın (basitlik için, madeni paralarınızın yarısını DAO'nuza göndermeyin). Bundan sonra yürütmek üzere eylemi simüle edeceğiz. Bu, 500 dolarlık altın jeton göndermesini önermek için, o işlemi kendi hesabına yaptırmak istediklerinizi 
 
 
 ![Select the bytecode](/images/tutorial/select-code.png)
